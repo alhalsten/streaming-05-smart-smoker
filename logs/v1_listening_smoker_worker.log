@@ -1,0 +1,17 @@
+2023-09-29 00:19:55,692.v1_listening_smoker_worker.INFO ==================================================
+2023-09-29 00:19:55,693.v1_listening_smoker_worker.INFO Today is 2023-09-29 at 12:19 AM
+2023-09-29 00:19:55,693.v1_listening_smoker_worker.INFO Running on: nt Windows 10
+2023-09-29 00:19:55,693.v1_listening_smoker_worker.INFO Python version:  3.9.12
+2023-09-29 00:19:55,693.v1_listening_smoker_worker.INFO Python path: C:\Users\alhal\miniconda3
+2023-09-29 00:19:55,694.v1_listening_smoker_worker.INFO Working dir: C:\Users\alhal\OneDrive\Documents\44-671\streaming-05-smart-smoker
+2023-09-29 00:19:55,695.v1_listening_smoker_worker.INFO ==================================================
+2023-09-29 00:19:55,710.v1_listening_smoker_worker.INFO  [*] Ready for work. To exit press CTRL+C
+2023-09-29 00:19:55,710.v1_listening_smoker_worker.INFO  [x] Received [05/22/21 12:21:15, 87.6]
+2023-09-29 00:19:56,721.v1_listening_smoker_worker.INFO  [x] Done.
+2023-09-29 00:20:09,814.v1_listening_smoker_worker.INFO  [x] Received [05/22/21 12:22:10, 86.3]
+2023-09-29 00:20:10,823.v1_listening_smoker_worker.INFO  [x] Done.
+2023-09-29 00:20:39,873.v1_listening_smoker_worker.INFO  [x] Received [05/22/21 12:22:15, 86.3]
+2023-09-29 00:20:40,876.v1_listening_smoker_worker.INFO  [x] Done.
+2023-09-29 00:20:55,728.v1_listening_smoker_worker.INFO 
+Closing connection. Goodbye.
+
