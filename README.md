@@ -1,4 +1,4 @@
-Angela Halsten 9/23/23
+Angela Halsten 9/30/23
 # streaming-05-smart-smoker
 
 ## Creating the producer
@@ -19,3 +19,12 @@ Angela Halsten 9/23/23
 
 ## Screenshot of producer running
 ![Alt text](<Screenshot 2023-09-23 193810.png>)
+
+## Create 3 consumers
+1. Created the Smoker_consumer from Module 4 consumer
+2. Added dequeing to calculate for alerts
+3. Set to smoker queue
+4. Create FoodA_consumer and FoodB_consumer from Smoker_Consumer
+5. Make necessary changes to deque calculations
+6. Changed queues
+![Alt text](<Screenshot 2023-09-30 152412.png>)
